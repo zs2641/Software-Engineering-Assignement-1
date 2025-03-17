@@ -14,27 +14,25 @@
 **Änderungsgeschichte:** 0.01; 15.03.2025.; Sophia Österle  
 
 ## UC 1.03
-**Name und Identifikationsnummer:** UC 1.03 - Warnung bei Maximalpulsüberschreitung oder Leistungsabweichung
+**Name und Identifikationsnummer:** UC 1.03 - Warnung bei Maximalpulsüberschreitung 
 
-**Beschreibung:** Eine Warnung wird angezeigt, wenn der Maximalpuls überschritten oder die vorgegebene Leistung abweicht, damit der Test abgebrochen werden kann.
+**Beschreibung:** Eine Warnung wird angezeigt, wenn der Maximalpuls überschritten wird.
 
 **Beteiligte Akteure:** Diagnostiker:in
 
 **Status:** in Arbeit
 
-**Auslöser:** Überschreiten des Maximalpulses oder Abweichung von der vorgegebenen Leistung
+**Auslöser:** Überschreiten des Maximalpulses 
 
-**Vorbedingung:** Der Test läuft, und relevante Daten (Puls, Leistung) werden erfasst
+**Vorbedingung:** Der Test läuft, und der Puls wird erfasst.
 
 **Invariante:** Die Warnung wird unabhängig von anderen Faktoren ausgelöst, wenn eine Abweichung erkannt wird
 
 **Nachbedingung/Ergebnis:** Der Diagnostiker/die Diagnostikerin wurde über die Abweichung informiert und kann den Test abbrechen
 
-**Standardablauf: Das System überwacht kontinuierlich die Puls- und Leistungswerte.
-
-Sobald eine Abweichung erkannt wird (Maximalpuls überschritten oder Leistungsabweichung), wird eine Warnung generiert.
-
-Die Warnung wird auf dem Bildschirm des Diagnostikers/der Diagnostikerin angezeigt.
+**Standardablauf: Das System überwacht kontinuierlich die Pulswerte.
+Sobald eine Abweichung erkannt wird, wird eine Warnung generiert.
+Die Warnung wird auf dem Bildschirm des Diagnostikers angezeigt.
 
 **Änderungsgeschichte:** 0.01; 17.03.2025; Sophie Zembacher
 
