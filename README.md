@@ -1,6 +1,6 @@
 # Software-Engineering-Assignement-1
 
-##UC 1
+## UC 1
 
 **Name und Identifikationsnummer:** UC 1.01.-Proband:in anlegen  
 **Beschreibung:** es werden verschiedene Proband:in angelegt  
