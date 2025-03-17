@@ -50,9 +50,9 @@ Die Warnung wird auf dem Bildschirm des Diagnostikers angezeigt.
 2. Systen fordert Proband:in auf Anstrengung mittels BORG-Skala zu bewerten  
 3. Wert zw. 0(min) und 10(max) wird gewählt  
 4. System speichert Eingabe  
-5. przess abgeschlossen 
+5. Prozess abgeschlossen 
 
-**Änderungsgeschichte:** 0.01; 17.03.2025; Tamira Grubbauer
+**Änderungsgeschichte:** 0.02; 17.03.2025; Tamira Grubbauer
 
 
 
