@@ -31,7 +31,11 @@
 **Nachbedingung/Ergebnis:** Der Diagnostiker/die Diagnostikerin wurde über die Abweichung informiert und kann den Test abbrechen
 
 **Standardablauf: Das System überwacht kontinuierlich die Puls- und Leistungswerte.
+
 Sobald eine Abweichung erkannt wird (Maximalpuls überschritten oder Leistungsabweichung), wird eine Warnung generiert.
+
 Die Warnung wird auf dem Bildschirm des Diagnostikers/der Diagnostikerin angezeigt.
+
 **Änderungsgeschichte:** 0.01; 17.03.2025; Sophie Zembacher
+
 
