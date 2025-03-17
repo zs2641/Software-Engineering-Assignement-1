@@ -14,7 +14,8 @@
 **Änderungsgeschichte:** 0.01; 15.03.2025.; Sophia Österle  
 
 ## UC 1.03
-**Name und Identifikationsnummer:** UC 1.03 - Warnung bei Maximalpulsüberschreitung oder LeistungsabweichungBeschreibung
+**Name und Identifikationsnummer:** UC 1.03 - Warnung bei Maximalpulsüberschreitung oder Leistungsabweichung
+
 **Beschreibung:** Eine Warnung wird angezeigt, wenn der Maximalpuls überschritten oder die vorgegebene Leistung abweicht, damit der Test abgebrochen werden kann.
 **Beteiligte Akteure:** Diagnostiker:in
 **Status:** in Arbeit
