@@ -37,3 +37,23 @@ Die Warnung wird auf dem Bildschirm des Diagnostikers angezeigt.
 **Änderungsgeschichte:** 0.01; 17.03.2025; Sophie Zembacher
 
 
+## UC 1.06
+
+**Name und Identifikationsnummer:** UC 1.06 Anstrengungsbewertung mittels BORG-Skala durch Proband:in  
+**Beschreibung:** Proband:in bewertet die empfundene Anstrengung nach dem Leistungstest mittels BORG-Skala  
+**Beteiligte Aktuere:** Proband:in; Diagnostiker:in  
+**Status:** in Arbeit  
+**Auslöser:** Leistungstest wurde abgeschlossen 
+**Vorbedingung:** Proband:in nimmt an Leistungstest teil; BORG-Skala als Angabemöglichkeit verfügbar
+**Invariante:** Bewertung erfolgt subjektiv durch Proband:in  
+**Standardablauf:** 1. Leistungstest wurde abgeschlossen  
+2. System fordert Proband auf Anstrengung mittels Borg Skala zu bewerten  
+3. Proband wählt Wert zw. 0(min) und 10(max)  
+4. System speichert Angabe
+5. Prozess abgeschlossen 
+
+**Änderungsgeschichte:** 0.01; 17.03.2025; Tamira Grubbauer
+
+
+
+
